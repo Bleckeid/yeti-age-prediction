@@ -1,0 +1,22 @@
+**Содержимое:**
+```text
+
+# Данные 
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# мусор
+__pycache__/
+*.pyc
+
+# Системные файлы
+.DS_Store
